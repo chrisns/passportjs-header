@@ -5,8 +5,7 @@
 [![Quality](https://codeclimate.com/github/chrisns/passportjs-header.png)](https://codeclimate.com/github/chrisns/passportjs-header)
 [![Dependencies](https://david-dm.org/chrisns/passportjs-header.png)](https://david-dm.org/chrisns/passportjs-header)
 
-[Passport](http://passportjs.org/) strategy for authenticating within a UK GSI
-header environment.
+[Passport](http://passportjs.org/) strategy for authenticating within a header.
 
 This is effectively a stripped down version of [passport-local](https://github.com/jaredhanson/passport-local).
 
