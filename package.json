@@ -24,11 +24,11 @@
     "passport-strategy": "1.x.x"
   },
   "devDependencies": {
-    "chai": "1.x.x",
-    "chai-passport-strategy": "0.1.x",
-    "coveralls": "^2.11.4",
+    "chai": "^4.1.2",
+    "chai-passport-strategy": "~1.0.0",
+    "coveralls": "^3.0.0",
     "istanbul": "^0.4.0",
-    "mocha": "1.x.x",
+    "mocha": "^3.5.3",
     "mocha-lcov-reporter": "^1.0.0"
   },
   "engines": {
