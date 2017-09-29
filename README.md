@@ -1,5 +1,7 @@
 # passportjs-header
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/chrisns/passportjs-header.svg)](https://greenkeeper.io/)
+
 [![Build](https://travis-ci.org/chrisns/passportjs-header.png)](https://travis-ci.org/chrisns/passportjs-header)
 [![Coverage](https://coveralls.io/repos/chrisns/passportjs-header/badge.png)](https://coveralls.io/r/chrisns/passportjs-header)
 [![Quality](https://codeclimate.com/github/chrisns/passportjs-header.png)](https://codeclimate.com/github/chrisns/passportjs-header)
